@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    }
+    body {
+        font: normal 16px Helvetica, Arial, sans-serif;
+    }
+    
+    .container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    }
+    
+    h1 {
+        border-bottom: 2px solid darkgrey;
+       
+    }
+    
+    h2 {
+        border-bottom: 1px solid lightgrey;
+        color: gray;
+    }

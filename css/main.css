@@ -24,8 +24,7 @@ body {
         color: gray;
     }  */
 
-.navbar {
+.container {
     width: 80%;
     height: 100%;
-    background: blue;
 }

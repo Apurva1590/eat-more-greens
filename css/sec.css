@@ -55,3 +55,8 @@ h2 {
 .row-three a{
 margin-bottom: 30px;
 }
+
+/* should have a more specific selector */
+img {
+    max-width: 100%;
+}
